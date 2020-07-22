@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+name: Bai Heng
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
