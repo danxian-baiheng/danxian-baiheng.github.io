@@ -1,7 +1,6 @@
 ---
-layout: post
-title: "git:FATAL: Unable to connect to relay host, errno=10061 解决方案"
-date: 2020-07-22
+title: "git errno：10061"
+tags: git
 ---
 
 #### git:FATAL: Unable to connect to relay host, errno=10061 解决方案
